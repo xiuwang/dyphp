@@ -92,10 +92,10 @@ Endpoints:
 
 Install-Build-Required: false
 #Source-Url: file:///root/cperlv2cart//root/test/cperlv2cart
-##Source-Url: file:///root/test/cperlv2cart/
+##Source-Url: file:///root/dyphp/
 ##Source-Md5: d916798a7e218f12b476bf1dee645f9d
-##Source-Url: https://github.com/chunyunchen/cperlv2cart/raw/master/cperlv2cart.tar.gz
-##Source-Url: https://github.com/chunyunchen/cperlv2cart/raw/master/cperlv2cart.zip
+##Source-Url: https://github.com/duyanyan/dyphp/raw/master/dyphp.tar.gz
+##Source-Url: https://github.com/duyanyan/dyphp/raw/master/dyphp.zip
 Source-Url: https://github.com/duyanyan/dyphp.git
-##Source-Url: git://github.com/chunyunchen/cperlv2cart.git
+##Source-Url: git://github.com/duyanyan/dyphp.git
 #
