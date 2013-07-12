@@ -7,7 +7,7 @@ License: "The PHP License, version 3.0"
 License-Url: http://www.php.net/license/3_0.txt
 Vendor: php.net
 Cartridge-Version: 0.0.2
-Cartridge-Vendor:  
+Cartridge-Vendor: dy 
 Categories:
   - service
   - php
@@ -95,7 +95,7 @@ Install-Build-Required: false
 ##Source-Url: file:///root/dyphp/
 ##Source-Md5: d916798a7e218f12b476bf1dee645f9d
 #Source-Url: https://github.com/duyanyan/dyphp/raw/master/dyphp.tar.gz
-Source-Url: https://github.com/duyanyan/dyphp/raw/master/dyphp.zip
+#Source-Url: https://github.com/duyanyan/dyphp/raw/master/dyphp.zip
 #Source-Url: https://github.com/duyanyan/dyphp.git
-#Source-Url: git://github.com/duyanyan/dyphp.git
+Source-Url: git://github.com/duyanyan/dyphp.git
 #
