@@ -97,6 +97,6 @@ Install-Build-Required: false
 #Source-Url: https://github.com/duyanyan/dyphp/raw/master/dyphp.tar.gz
 #Source-Url: https://github.com/duyanyan/dyphp/raw/master/dyphp.zip
 #Source-Url: https://github.com/duyanyan/dyphp.git
-Source-Url: https://github.com/duyanyan/nodyphp.git
-#Source-Url: git://github.com/duyanyan/dyphp.git
+#Source-Url: https://github.com/duyanyan/nodyphp.git
+Source-Url: git://github.com/duyanyan/dyphp.git
 #
