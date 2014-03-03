@@ -5,7 +5,8 @@ Description: "PHP is a general-purpose server-side scripting language originally
 Version: '5.3'
 License: "The PHP License, version 3.0"
 License-Url: http://www.php.net/license/3_0.txt
-Vendor: php.net
+#Vendor: php.net
+Vendor:redhat
 Cartridge-Version: 0.0.2
 Cartridge-Vendor: dy
 Categories:
