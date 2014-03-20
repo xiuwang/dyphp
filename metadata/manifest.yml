@@ -70,8 +70,8 @@ Subscribes:
     Type: "STRING:urlpath"
     Required : false
 Scaling:
-  Min: 1
-  Max: -1
+  Min: 0
+  Max: 0
 Group-Overrides:
   - components:
     - php-5.3
